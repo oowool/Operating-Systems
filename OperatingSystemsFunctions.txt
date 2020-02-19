@@ -1,6 +1,1 @@
-The operating system has three main functions: 
-Manage computer resources, such as CPU, memory, disk drive and printer; 
-Establish user interface; 
-Execute and provide application software services.
-The operating system is the interface between computer users and computer hardware. 
-An operating system is software that performs all basic tasks.
+IOS is a mobile operating system developed by apple for its hardware. Currently, many of Apple's mobile devices, including the iPhone and iPod touch, are powered by the operating system; it also powered the iPad before the iPad OS was launched in 2019. This is a very popular operating system.
