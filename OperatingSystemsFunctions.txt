@@ -1,0 +1,6 @@
+The operating system has three main functions: 
+Manage computer resources, such as CPU, memory, disk drive and printer; 
+Establish user interface; 
+Execute and provide application software services.
+The operating system is the interface between computer users and computer hardware. 
+An operating system is software that performs all basic tasks.
